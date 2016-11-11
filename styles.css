@@ -1,0 +1,78 @@
+body {
+    font-family: Georgia, Times, serif;
+    font-size: medium;
+    background-color: #ffffff;
+    color: #63909c;
+}
+  
+header #banner {
+    margin: 0px auto 5% auto;
+    display: block;
+    border: 2px solid #63909c;
+}
+
+#container {
+    margin: 0px auto;
+    width: 748px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px auto 5% auto;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #63909c;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 4px 4px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #d791b5;
+}
+
+#content {
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+p:first-letter {
+    color: #d791b5;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+#month_flower {
+    border: 2px solid #63909c;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    width: 748px;
+    border: 2px solid #d791b5;
+}
+
+a {
+    color: #d791b5;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    border-top: 2px solid #63909c;
+}
